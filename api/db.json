@@ -1,36 +1,46 @@
 {
   "streams": [
     {
-      "title": "demo",
-      "description": "demo des",
+      "title": "Demo 1",
+      "description": "This is the demo 1",
+      "userId": "104483036701978669844",
       "id": 1
     },
     {
-      "title": "mystream",
-      "description": "my new stream",
+      "title": "Demo 2",
+      "description": "This is the demo 2",
+      "userId": "104483036701978669844",
       "id": 2
     },
     {
-      "title": "demo 1",
-      "description": "Wow, my new demo1",
+      "title": "Demo 3",
+      "description": "This is the demo 3",
+      "userId": "104483036701978669844",
       "id": 3
     },
     {
-      "title": "demo2",
-      "description": "my demo2",
+      "title": "Demo 4",
+      "description": "This is the demo 4",
+      "userId": "104483036701978669844",
       "id": 4
     },
     {
-      "title": "demo3333",
-      "description": "demo3",
+      "title": "Demo 5",
+      "description": "This is my demo 5",
       "userId": "104483036701978669844",
       "id": 5
     },
     {
-      "title": "demo4",
-      "description": "demo4",
+      "title": "Demo 6",
+      "description": "This is my demo 6",
       "userId": "104483036701978669844",
       "id": 6
+    },
+    {
+      "title": "Demo 7",
+      "description": "This is my demo 7",
+      "userId": "104483036701978669844",
+      "id": 7
     }
   ]
 }

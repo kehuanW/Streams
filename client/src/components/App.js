@@ -7,6 +7,7 @@ import StreamList from './Streams/StreamList'
 import StreamEdit from './Streams/StreamEdit'
 import Header from './Header/Header'
 import history from '../history'
+import '../style/App.css'
 
 export default function App() {
     return (
