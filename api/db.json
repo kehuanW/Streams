@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "demo",
+      "description": "demo des",
+      "id": 1
+    },
+    {
+      "title": "mystream",
+      "description": "my new stream",
+      "id": 2
+    },
+    {
+      "title": "demo 1",
+      "description": "Wow, my new demo1",
+      "id": 3
+    },
+    {
+      "title": "demo2",
+      "description": "my demo2",
+      "id": 4
+    },
+    {
+      "title": "demo3333",
+      "description": "demo3",
+      "userId": "104483036701978669844",
+      "id": 5
+    },
+    {
+      "title": "demo4",
+      "description": "demo4",
+      "userId": "104483036701978669844",
+      "id": 6
+    }
+  ]
+}
