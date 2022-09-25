@@ -55,7 +55,7 @@ class GoogleAuth extends Component {
     }
 
     render() {
-        console.log("render")
+        // console.log("render")
         return (
             <div>
                 <div>{this.HandleAuthButton()}</div>
